@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%">
+  <!-- Background Circle -->
+  <circle cx="12" cy="12" r="11" fill="#EBF3FC" />
+  
+  <!-- Icon Elements -->
+  <g transform="translate(6, 6) scale(0.5)" 
+     stroke="#0C72D4" 
+     stroke-width="2" 
+     stroke-linecap="round" 
+     stroke-linejoin="round" 
+     fill="none">
+    
+  <rect x="3" y="2" width="12" height="20" rx="2" />
+  <line x1="6" y1="6" x2="12" y2="6" />
+  <path d="M6 10h.01M10 10h.01M6 14h.01M10 14h.01M6 18h.01M10 18h.01" />
+  <!-- Warning triangle -->
+  <polygon points="19 13 15 21 23 21" />
+  <line x1="19" y1="16" x2="19" y2="18" />
+  <line x1="19" y1="20" x2="19.01" y2="20" />
+
+  </g>
+</svg>
